@@ -11,7 +11,8 @@
     "reference:csv": "npm run parse:csv && backstop reference --config=test/mainConfigCSV.js",
     "test:csv": "backstop test --config=test/mainConfigCSV.js",
     "reference:xml": "node ./bin/sitemapurls.js && node ./bin/csv-reader.js && backstop reference --config=test/mainConfigXML.js",
-    "test:xml": "backstop test --config=test/mainConfigXML.js"
+    "test:xml": "backstop test --config=test/mainConfigXML.js",
+	"start": "npm run parse:csv && npm run reference:csv && npm run test:csv"
   },
   "author": "Juhi Saxena",
   "license": "MIT",

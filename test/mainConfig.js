@@ -4,8 +4,8 @@ const dotenv = require('dotenv');
 dotenv.config();
 const scenarios = [];
 const viewports = [];
-const baseUrl =  "https://example.com" // Replace the value "https://example.com" by the base URL of the website you want to test. It could be your development site and you want to make sure recent changes didn't break the UI
-const referenceUrl = "https://example.com" //Optional URL, Replace the value "https://reference.com" by the reference URL of the website you want to compare with. It could be your production site.
+const baseUrl =  "https://www.marinersmuseum.test" // Replace the value "https://example.com" by the base URL of the website you want to test. It could be your development site and you want to make sure recent changes didn't break the UI
+const referenceUrl = "http://ref-10up-mariners-museum.local" //Optional URL, Replace the value "https://reference.com" by the reference URL of the website you want to compare with. It could be your production site.
 
 let config = []; 
 

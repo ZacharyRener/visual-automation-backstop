@@ -1,3 +1,44 @@
 label,referenceUrl,url
-Home page,https://example.com/,https://example.com/
-Other page,https://example.com/page1,https://example.com/page1
+Home page,https://ref-marinersmuseum.test/,https://marinersmuseum.test/
+Museum,https://ref-marinersmuseum.test/museum/,https://marinersmuseum.test/museum/
+Plan Your Visit,https://ref-marinersmuseum.test/plan-your-visit/,https://marinersmuseum.test/plan-your-visit/
+For Kids,https://ref-marinersmuseum.test/for-kids/,https://marinersmuseum.test/for-kids/
+Mariners’ Café,https://ref-marinersmuseum.test/mariners-cafe/,https://marinersmuseum.test/mariners-cafe/
+Mariners’ Shop,https://ref-marinersmuseum.test/plan-your-visit/mariners-shop/,https://marinersmuseum.test/plan-your-visit/mariners-shop/
+Explorers’ Theater,https://ref-marinersmuseum.test/museum/explorers-theater/,https://marinersmuseum.test/museum/explorers-theater/
+Groups,https://ref-marinersmuseum.test/groups/,https://marinersmuseum.test/groups/
+Accessibility,https://ref-marinersmuseum.test/accessibility/,https://marinersmuseum.test/accessibility/
+Venue Rentals,https://ref-marinersmuseum.test/venue-rentals/,https://marinersmuseum.test/venue-rentals/
+About,https://ref-marinersmuseum.test/about-the-mariners/,https://marinersmuseum.test/about-the-mariners/
+Park,https://ref-marinersmuseum.test/park/,https://marinersmuseum.test/park/
+Plan Your Visit,https://ref-marinersmuseum.test/plan-your-visit/,https://marinersmuseum.test/plan-your-visit/
+For Kids,https://ref-marinersmuseum.test/for-kids/,https://marinersmuseum.test/for-kids/
+Mariners’ Café,https://ref-marinersmuseum.test/mariners-cafe/,https://marinersmuseum.test/mariners-cafe/
+Groups,https://ref-marinersmuseum.test/groups/,https://marinersmuseum.test/groups/
+Accessibility,https://ref-marinersmuseum.test/accessibility/,https://marinersmuseum.test/accessibility/
+Venue Rentals,https://ref-marinersmuseum.test/venue-rentals/,https://marinersmuseum.test/venue-rentals/
+Noland Trail,https://ref-marinersmuseum.test/park/noland-trail/,https://marinersmuseum.test/park/noland-trail/
+Mariners’ Lake,https://ref-marinersmuseum.test/park/mariners-lake/,https://marinersmuseum.test/park/mariners-lake/
+About,https://ref-marinersmuseum.test/about-the-mariners/,https://marinersmuseum.test/about-the-mariners/
+Events & Exhibits,https://ref-marinersmuseum.test/events-exhibits/,https://marinersmuseum.test/events-exhibits/
+Conservation,https://ref-marinersmuseum.test/conservation/,https://marinersmuseum.test/conservation/
+Cultural Heritage,https://ref-marinersmuseum.test/conservation/cultural-heritage/,https://marinersmuseum.test/conservation/cultural-heritage/
+Environmental,https://ref-marinersmuseum.test/conservation/environmental/,https://marinersmuseum.test/conservation/environmental/
+USS Monitor,https://ref-marinersmuseum.test/conservation/uss-monitor/,https://marinersmuseum.test/conservation/uss-monitor/
+Learn,https://ref-marinersmuseum.test/learn/,https://marinersmuseum.test/learn/
+Discover the Collection,https://ref-marinersmuseum.test/learn/discover-the-collection/,https://marinersmuseum.test/learn/discover-the-collection/
+Research Services,https://ref-marinersmuseum.test/learn/research-services/,https://marinersmuseum.test/learn/research-services/
+Explore Topics,https://ref-marinersmuseum.test/learn/explore-topics/,https://marinersmuseum.test/learn/explore-topics/
+Student Programs,https://ref-marinersmuseum.test/student-programs/,https://marinersmuseum.test/student-programs/
+Video,https://ref-marinersmuseum.test/learn/explore-topics/video/,https://marinersmuseum.test/learn/explore-topics/video/
+Blog,https://ref-marinersmuseum.test/blog/,https://marinersmuseum.test/blog/
+Give & Join,https://ref-marinersmuseum.test/give-join/,https://marinersmuseum.test/give-join/
+Plan Your Visit,https://ref-marinersmuseum.test/plan-your-visit/,https://marinersmuseum.test/plan-your-visit/
+Search,https://ref-marinersmuseum.test/search/?search=Park,https://marinersmuseum.test/search/?search=Park
+Posts Template,https://ref-marinersmuseum.test/wp-admin/post.php?post=17237&action=edit,https://marinersmuseum.test/wp-admin/post.php?post=17237&action=edit
+Exhibit Template,https://ref-marinersmuseum.test/exhibit/a-head-of-its-time/,https://marinersmuseum.test/exhibit/a-head-of-its-time/
+Program Template,https://ref-marinersmuseum.test/program/pyramids-boats-and-emojis/,https://marinersmuseum.test/program/pyramids-boats-and-emojis/
+Events Template,https://ref-marinersmuseum.test/event/museum-store-sunday/,https://marinersmuseum.test/event/museum-store-sunday/
+Object Template,https://ref-marinersmuseum.test/object/uss-lancaster-eagle-figurehead-test/,https://marinersmuseum.test/object/uss-lancaster-eagle-figurehead-test/
+Videos Template,https://ref-marinersmuseum.test/video/beyond-the-frame-the-color-of-war/,https://marinersmuseum.test/video/beyond-the-frame-the-color-of-war/
+Topics Template,https://ref-marinersmuseum.test/topic/uss-monitor-story/,https://marinersmuseum.test/topic/uss-monitor-story/
