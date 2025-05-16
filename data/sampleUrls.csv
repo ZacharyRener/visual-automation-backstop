@@ -1,3 +1,10 @@
 label,referenceUrl,url
-Home page,https://example.com/,https://example.com/
-Other page,https://example.com/page1,https://example.com/page1
+Home page,https://ref-stanmed.test/,https://stanmed.test/
+All Issues,https://ref-stanmed.test/issue/,https://stanmed.test/issue/
+All Articles,https://ref-stanmed.test/articles/,https://stanmed.test/articles/
+Editors' picks,https://ref-stanmed.test/category/editors-picks/,https://stanmed.test/category/editors-picks/
+Theme template,https://ref-stanmed.test/theme/cancer/,https://stanmed.test/theme/cancer/
+Search template,https://ref-stanmed.test/?s,https://stanmed.test/?s
+About,https://ref-stanmed.test/about/,https://stanmed.test/about/
+Article Template,https://ref-stanmed.test/accelerating-insights-human-biology/,https://stanmed.test/accelerating-insights-human-biology/
+Issues Template,https://ref-stanmed.test/issue/2019winter/,https://stanmed.test/issue/2019winter/
