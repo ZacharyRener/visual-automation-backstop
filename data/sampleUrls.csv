@@ -1,3 +1,8 @@
 label,referenceUrl,url
-Home page,https://example.com/,https://example.com/
-Other page,https://example.com/page1,https://example.com/page1
+Home page,https://democracydocket-ref.test/,https://democracydocket.test/
+Cases,https://democracydocket-ref.test/cases/,https://democracydocket.test/cases/
+Analysis,https://democracydocket-ref.test/analysis/,https://democracydocket.test/analysis/
+News,https://democracydocket-ref.test/news-alerts/,https://democracydocket.test/news-alerts/
+Case Template,https://democracydocket-ref.test/cases/alabama-congressional-redistricting-challenge/,https://democracydocket.test/cases/alabama-congressional-redistricting-challenge/
+Analysis Template,https://democracydocket-ref.test/analysis/redistricting-rundown-colorado/,https://democracydocket.test/analysis/redistricting-rundown-colorado/
+News Template,https://democracydocket-ref.test/news-alerts/arkansas-legislature-approves-new-congressional-map/,https://democracydocket.test/news-alerts/arkansas-legislature-approves-new-congressional-map/
