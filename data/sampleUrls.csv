@@ -1,3 +1,30 @@
 label,referenceUrl,url
-Home page,https://example.com/,https://example.com/
-Other page,https://example.com/page1,https://example.com/page1
+Home,https://c2c-ref.test/,https://c2c.test/
+About Data Stories,https://c2c-ref.test/data-stories/about-data-stories-page/,https://c2c.test/data-stories/about-data-stories-page/
+All Stories,https://c2c-ref.test/data-stories/,https://c2c.test/data-stories/
+Build Your Own Table,https://c2c-ref.test/build-your-own-table/,https://c2c.test/build-your-own-table/
+Request Access To Data,https://c2c-ref.test/request-access-to-data/,https://c2c.test/request-access-to-data/
+Data Points,https://c2c-ref.test/data-points/,https://c2c.test/data-points/
+Data Providers,https://c2c-ref.test/data-providers/,https://c2c.test/data-providers
+Data Elements by Provider,https://c2c-ref.test/resources/data-elements-by-provider/,https://c2c.test/resources/data-elements-by-provider/
+Data Integrity,https://c2c-ref.test/data-integrity/,https://c2c.test/data-integrity/
+eTranscript California,https://c2c-ref.test/send-college-transcripts/,https://c2c.test/send-college-transcripts/
+College Planning & Application Tools,https://c2c-ref.test/career-tools/,https://c2c.test/career-tools/
+Finding a college,https://c2c-ref.test/career-tools/finding-a-college/,https://c2c.test/career-tools/finding-a-college/
+Majors and Degrees,https://c2c-ref.test/career-tools/majors-and-degrees/,https://c2c.test/career-tools/majors-and-degrees/
+Applying to college,https://c2c-ref.test/career-tools/applying-to-college/,https://c2c.test/career-tools/applying-to-college/
+Financial Aid,https://c2c-ref.test/career-tools/financial-aid/,https://c2c.test/career-tools/financial-aid/
+First Generation Journeys,https://c2c-ref.test/career-tools/first-gen-journeys/,https://c2c.test/career-tools/first-gen-journeys/
+Ways To Get Involved,https://c2c-ref.test/ways-to-get-involved/,https://c2c.test/ways-to-get-involved/
+Community Conversations,https://c2c-ref.test/ways-to-get-involved/community-conversations/,https://c2c.test/ways-to-get-involved/community-conversations/
+Meetings,https://c2c-ref.test/meetings/,https://c2c.test/meetings/
+Mission & Vision,https://c2c-ref.test/mission-vision/,https://c2c.test/mission-vision/
+Leadership,https://c2c-ref.test/leadership/,https://c2c.test/leadership/
+Roadmap & Progress,https://c2c-ref.test/roadmap-progress/,https://c2c.test/roadmap-progress/
+In The News,https://c2c-ref.test/topics/news/in-the-news/,https://c2c.test/topics/news/in-the-news/
+Resources,https://c2c-ref.test/resources/,https://c2c.test/resources/
+Contact Us,https://c2c-ref.test/contact-us/,https://c2c.test/contact-us/
+Press Center,https://c2c-ref.test/press-center/,https://c2c.test/press-center/
+Careers,https://c2c-ref.test/careers/,https://c2c.test/careers/
+News,https://c2c-ref.test/topics/updates/,https://c2c.test/topics/updates/
+News & Blog,https://c2c-ref.test/news/,https://c2c.test/news/
